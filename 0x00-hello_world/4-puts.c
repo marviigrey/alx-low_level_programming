@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- *  main-prints out a string to stdout
+ * main - main block
  * return-always 0 (success)
- * return value of 'main'
-  */
+ *
+ */
 int main(void)
 
 {
