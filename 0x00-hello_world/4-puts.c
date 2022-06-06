@@ -2,7 +2,8 @@
 /**
  *  main-prints out a string to stdout
  * return-always 0 (success)
- */
+ * return value of 'main'
+  */
 int main(void)
 
 {
